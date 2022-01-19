@@ -1,0 +1,26 @@
+head{
+    background-color: aqua;
+}
+
+body{
+    background-color: gray;
+}
+
+.btn{
+    background-color: black;
+    color:blueviolet;
+}
+
+.btn:hover{
+    background-color: gray;
+}
+
+.center{
+    text-align: center;
+}
+
+.entry{
+    background-color: purple;
+    background-image: url("");
+    padding: 20%;
+}
