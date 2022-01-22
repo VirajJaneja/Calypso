@@ -24,3 +24,20 @@ body{
     background-image: url("");
     padding: 20%;
 }
+
+.page1{
+    background-color: black; 
+    max-width: 100%;
+    height: 600px;
+    padding: 0%;
+}
+
+.expandingButtonGame{
+    position: absolute;
+    background-color: green;
+    top: 140px;
+    right: 1610px;
+    height: 10px;
+    background-image:url(file:///C:/Users/viraj/Downloads/teahub.io-circuit-wallpaper-525000.png);
+     height="30px";
+}
