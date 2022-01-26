@@ -21,6 +21,12 @@ body, html{
     width: 6%;
 }
 
+.center{
+    position:center;
+    top:50%;
+    right:50%;
+}
+
 .steamBtn{
     position: absolute;
     top: 25%;
